@@ -28,9 +28,10 @@ We're just a couple of college students trying to make a difference in our world
 
 ### Tools
  
-1. **Google Civic Information API:** Our team used this API to access and dynamically display information about current political representatives. Users can find this information by using the search bar on the Candidates page. We obtained a JSONObject from the API call that had information about political representatives; we then outputted that information on our Candidate page. More information about the Google Civic Information API can be found [here](https://developers.google.com/civic-information).
-2. 
-3. 
-4. 
-5. 
-6. 
+1. **Bootstrap:** Our team used this front-end development framework to create the foundational framework for the Election Essentials web application.
+2. **Google Cloud Platfrom:** Our team used this suite of cloud computing services to host the front-end component of the Election Essentials web application.
+3. **Amazon Web Services:** Our team used this suite of cloud computing services to host the back-end compoenet of the Election Essentials web application.
+4. **MongoDB:** Our team used this document-oriented database program to store information pulled from API's.
+5. **Mockito:** Our team used this testing framework for Java to create automated unit tests that allow for test-driven development.
+6. **Spring Boot:** Our team used this Java-based framework used to create micro-services and endpoints for the MongoDB database.
+Selenium: Our team used this browser automation tool to comprehensively test the front-end of our web application.
