@@ -1,6 +1,6 @@
 # Election Essentials
 
-## http://ee461l-election-essentials.appspot.com/homepage.html
+### http://ee461l-election-essentials.appspot.com/homepage.html
 
 ## Our Vision
 
